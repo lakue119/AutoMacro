@@ -162,5 +162,5 @@ fabric.properties
 strings.xml
 network_security_config.xml
 
-.kt
-.java
+*.kt
+*.java
